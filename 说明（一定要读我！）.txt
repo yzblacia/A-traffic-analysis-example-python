@@ -1,0 +1,9 @@
+	这是小手冰凉队提交的第四届”滨创杯“python程序设计大赛第一题的代码。
+	该代码由三部分组成（Pre.py, Predict.py, Plot.py）, 相关解释和运行结果分别在各自的ipynb文件里展示了。main.py则是整合
+了三个脚本，运行main.py可以将三个脚本依次运行并展示结果。
+	适用于python3.7-3.10
+	需要安装的python库：
+	pandas 1.4.2，numpy 1.22.3，openpyxl 3.0.9，matplotlib 3.5.1，sklearn 0.0
+	同目录下有大赛给的“题目-数据”文件夹即可运行。
+
+有疑问可以联系作者qq：2225497583  邮箱：2225497583@qq.com
